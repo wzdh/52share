@@ -12,17 +12,28 @@ http://www.songyongzhi.com/
  派睿克技术论坛
  
 SwitchyOmega_2.5.0+OmegaOptions.Bak:  https:///s/1qbhnotdjfywyod/OmegaOptions.bak?dl=1
+
 IDM Intergration Module For Chrome:   https://chrome.google.com/webstore/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek/
 http://www.internetdownloadmanager.com/register/new_faq/chrome_extension.html
+
 IDM Intergration Module For Firefox: http://www.internetdownloadmanager.com/register/new_faq/bi4_3.html
+
 迅雷Thunder（9.1.40.898）：https://pan.1bps8vtd
+
 蓝灯（3.7.9）无限流量：http://www.shaoit.com/android-lantern.html
+
 腾讯视频（10.2.374）去广告纯净版：https://pan.1o7VlygM
+
 爱奇艺TV版 （3.2）安卓去广告：http://www.shaoit.com/iqiyitv.html
+
 [Android 原创] 去除某果TV广告：https://www.52pojie.cn/thread-626605-1-1.html
+
 Java SE Development Kit 8 Downloads：http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+
 CharlesProxy：https://www.charlesproxy.com/download/
+
 Charles最新版破解注册：http://charles.iiilab.com/
+
 Charles安装及使用：http://www.jianshu.com/p/55a8c84e0f24
                                 http://www.cnblogs.com/aoxueshou/p/6605476.html
                                 http://blog.csdn.net/zxz_tsgx/article/details/52635115
