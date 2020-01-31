@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,凤凰中文HD[南昌移动720P-8M]
-http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8?
 #EXTINF:-1 ,凤凰资讯HD[南昌移动720P-8M]
-http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8?
 #EXTINF:-1 ,凤凰中文HD[官方720P-1M]
 http://liveali.ifeng.com/live/FHZW.m3u8
 #EXTINF:-1 ,凤凰资讯HD[官方720P-1M]
@@ -24,165 +24,165 @@ http://117.148.187.114/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 ,凤凰资讯HD[温州移动720P-10M]
 http://39.134.185.69/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 ,CCTV-超高清4K[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000266303.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 ,CCTV-1高清[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000210103.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 #EXTINF:-1 ,CCTV-2高清[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000203603.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 #EXTINF:-1 ,CCTV-3高清[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000203803.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
 #EXTINF:-1 ,CCTV-4高清[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000204803.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
 #EXTINF:-1 ,CCTV-5高清[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000205103.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
 #EXTINF:-1 ,CCTV-5+高清[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000204503.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
 #EXTINF:-1 ,CCTV-6高清[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000203303.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
 #EXTINF:-1 ,CCTV-7高清[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000510003.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
 #EXTINF:-1 ,CCTV-8高清[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000203903.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
 #EXTINF:-1 ,CCTV-9高清[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000499403.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
 #EXTINF:-1 ,CCTV-10高清[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000203503.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
 #EXTINF:-1 ,CCTV-11高清[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000204103.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
 #EXTINF:-1 ,CCTV-12高清[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000202603.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
 #EXTINF:-1 ,CCTV-13高清[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000204603.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 #EXTINF:-1 ,CCTV-14高清[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000204403.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 #EXTINF:-1 ,CCTV-15高清[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000205003.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 #EXTINF:-1 ,CCTV-17高清[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000204203.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 #EXTINF:-1 ,CGTN-HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2001656803.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 #EXTINF:-1 ,北京卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000272103.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
 #EXTINF:-1 ,湖南卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000296203.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
 #EXTINF:-1 ,江苏卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000295603.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
 #EXTINF:-1 ,浙江卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000295503.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
 #EXTINF:-1 ,东方卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000292403.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
 #EXTINF:-1 ,广东卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000292703.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
 #EXTINF:-1 ,深圳卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.190/tlivecloud-cdn.ysp.CCTV-.cn/001/2000292203.m3u8
+http://183.194.230.190/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
 #EXTINF:-1 ,广西卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000294203.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
 #EXTINF:-1 ,海南卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000291503.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
 #EXTINF:-1 ,山东卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000294803.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
 #EXTINF:-1 ,江西卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000294103.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
 #EXTINF:-1 ,湖北卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000294503.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
 #EXTINF:-1 ,河南卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000296103.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
 #EXTINF:-1 ,河北卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000293403.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
 #EXTINF:-1 ,贵州卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000293303.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
 #EXTINF:-1 ,东南卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000292503.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
 #EXTINF:-1 ,四川卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000295003.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
 #EXTINF:-1 ,辽宁卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000281303.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
 #EXTINF:-1 ,重庆卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000297803.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 #EXTINF:-1 ,黑龙江卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000293903.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
 #EXTINF:-1 ,安徽卫视HD[央视频上海移动1080P-4M]
-http://183.194.230.113/tlivecloud-cdn.ysp.CCTV-.cn/001/2000298003.m3u8
+http://183.194.230.113/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 #EXTINF:-1 ,CCTV-超高清4K[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000266303.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 ,CCTV-1高清[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000210103.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 #EXTINF:-1 ,CCTV-2高清[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000203603.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 #EXTINF:-1 ,CCTV-3高清[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000203803.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
 #EXTINF:-1 ,CCTV-4高清[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000204803.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
 #EXTINF:-1 ,CCTV-5高清[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000205103.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
 #EXTINF:-1 ,CCTV-5+高清[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000204503.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
 #EXTINF:-1 ,CCTV-6高清[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000203303.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
 #EXTINF:-1 ,CCTV-7高清[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000510003.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
 #EXTINF:-1 ,CCTV-8高清[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000203903.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
 #EXTINF:-1 ,CCTV-9高清[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000499403.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
 #EXTINF:-1 ,CCTV-10高清[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000203503.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
 #EXTINF:-1 ,CCTV-11高清[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000204103.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
 #EXTINF:-1 ,CCTV-12高清[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000202603.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
 #EXTINF:-1 ,CCTV-13高清[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000204603.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 #EXTINF:-1 ,CCTV-14高清[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000204403.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 #EXTINF:-1 ,CCTV-15高清[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000205003.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 #EXTINF:-1 ,CCTV-17高清[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000204203.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 #EXTINF:-1 ,CGTN-HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2001656803.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 #EXTINF:-1 ,北京卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000272103.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
 #EXTINF:-1 ,湖南卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000296203.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
 #EXTINF:-1 ,江苏卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000295603.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
 #EXTINF:-1 ,浙江卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000295503.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
 #EXTINF:-1 ,东方卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000292403.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
 #EXTINF:-1 ,广东卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000292703.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
 #EXTINF:-1 ,深圳卫视HD[央视频青岛电信1080P-4M]
-http://183.194.230.190/tlivecloud-cdn.ysp.CCTV-.cn/001/2000292203.m3u8
+http://183.194.230.190/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
 #EXTINF:-1 ,广西卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000294203.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
 #EXTINF:-1 ,海南卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000291503.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
 #EXTINF:-1 ,山东卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000294803.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
 #EXTINF:-1 ,江西卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000294103.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
 #EXTINF:-1 ,湖北卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000294503.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
 #EXTINF:-1 ,河南卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000296103.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
 #EXTINF:-1 ,河北卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000293403.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
 #EXTINF:-1 ,贵州卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000293303.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
 #EXTINF:-1 ,东南卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000292503.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
 #EXTINF:-1 ,四川卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000295003.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
 #EXTINF:-1 ,辽宁卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000281303.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
 #EXTINF:-1 ,重庆卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000297803.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
 #EXTINF:-1 ,黑龙江卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000293903.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
 #EXTINF:-1 ,安徽卫视HD[央视频青岛电信1080P-4M]
-http://140.249.30.42/tlivecloud-cdn.ysp.CCTV-.cn/001/2000298003.m3u8
+http://140.249.30.42/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 #EXTINF:-1 ,CCTV-1高清[柳州移动]
 http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?
 #EXTINF:-1 ,CCTV-2高清[柳州移动]
@@ -450,23 +450,23 @@ http://39.135.34.155:18890/000000001000/1000000002000011619/1.m3u8?channel-id=ys
 #EXTINF:-1 ,BasTV4K-[杭州移动20M码率]
 http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 ,CCTV-1高清[江西移动1080P-8M]
-http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-CCTV-1/1.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-cctv1/1.m3u8
 #EXTINF:-1 ,CCTV-2高清[江西移动1080P-8M]
-http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-CCTV-2/1.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-cctv2/1.m3u8
 #EXTINF:-1 ,CCTV-5高清[江西移动1080P-8M]
-http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-CCTV-5/1.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-cctv5/1.m3u8
 #EXTINF:-1 ,CCTV-7高清[江西移动1080P-8M]
-http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-CCTV-7/1.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-cctv7/1.m3u8
 #EXTINF:-1 ,CCTV-9高清[江西移动1080P-8M]
-http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-CCTV-9/1.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-cctv9/1.m3u8
 #EXTINF:-1 ,CCTV-10高清[江西移动1080P-8M]
-http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-CCTV-10/1.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-cctv10/1.m3u8
 #EXTINF:-1 ,CCTV-12高清[江西移动1080P-8M]
-http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-CCTV-12/1.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-cctv12/1.m3u8
 #EXTINF:-1 ,CCTV-14高清[江西移动1080P-8M]
-http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-CCTV-14/1.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-cctv14/1.m3u8
 #EXTINF:-1 ,CCTV-17高清[江西移动1080P-8M]
-http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-CCTV-17/1.m3u8
+http://117.169.124.43:6610/ysten-businessmobile/live/HD-8000k-1080P-cctv17/1.m3u8
 #EXTINF:-1 ,BTV冬奥纪实高清[江西移动1080P-8M]
 http://117.169.124.14:6610/ysten-businessmobile/live/HD-8000k-1080P-beijingjishi/1.m3u8
 #EXTINF:-1 ,北京卫视高清[江西移动1080P-8M]
